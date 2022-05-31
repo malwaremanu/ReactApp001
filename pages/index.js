@@ -6,7 +6,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>
-        Welcome to Expo + Next.js deployed on Vercel👋
+        Welcome to Expo + Next.js deployed on Vercel using git👋
       </Text>
     </View>
   );
